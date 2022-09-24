@@ -3,6 +3,8 @@
 This is simple Keylogger with minimal lines of pyhton code.
 Which logs the keystrokes of the keyboard with exact time for each keystroke.
 
+# pip3 install pynput
+
 ![Screenshot_2022-09-24_10_04_28](https://user-images.githubusercontent.com/60318943/192103213-63d987c5-d555-406d-adbd-44be87340022.png)
 
 ![Screenshot_2022-09-24_10_21_10](https://user-images.githubusercontent.com/60318943/192103229-ef24753b-45d6-462c-97b1-513248214d57.png)
